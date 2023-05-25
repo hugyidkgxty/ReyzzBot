@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/hugyidkgxty/ReyzzBot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,8 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/hugyidkgxty/ReyzzBot/issues"
+
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/hugyidkgxty/ReyzzBot#readme"
 }
